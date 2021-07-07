@@ -1,12 +1,12 @@
-## First Name Last Name
+## Christian Cruz Fonseca
 
-### Term Year 
+### 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Mac 1147
 
 - Course 3
 
@@ -16,12 +16,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Math
 
-- Thing 2
+- Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
-
+- Volleyball
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/29
