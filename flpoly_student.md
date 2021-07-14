@@ -27,6 +27,6 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/07/14
-
 ![image](https://user-images.githubusercontent.com/86986222/125694429-d52d0a08-4dc2-440c-8c3e-80d4c5c82356.png)
+
+> Last modified: 2021/07/14
