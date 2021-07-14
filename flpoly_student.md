@@ -1,26 +1,30 @@
 ## Christian Cruz Fonseca
 
-### 2021 
+### Summer 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Intro to Data Science
+- COP 2073 Intro to Data Science
 
-- Mac 1147
-
-- Course 3
-
-- Course 4
+- Mac 1147 Pre-Calculus
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Math
+- Dogs
 
 - Video Games
 
 - Volleyball
+
+**Currently Enrolled Classes**
+
+| Prefix      | Number | Name                          | Credits |
+|:-----------:|:------:|:-----------------------------:|:-------:|
+|**COP**      |**2073**| _Introduction to Data Science_|3        | 
+|**MAC**      |**1147**| _Pre-Calculus_                |4        |
+
 ***
 
-> Last modified: 2021/07/29
+> Last modified: 2021/07/14
